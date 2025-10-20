@@ -83,8 +83,8 @@ The project demonstrates proficiency in **front-end web technologies** and follo
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/itsjaataman/foad.git
-cd foad
+git clone https://github.com/Aditish21/aditi-portfolio.git
+cd aditi-portfolio
 
 2️⃣ Install dependencies
 npm install
